@@ -1,4 +1,4 @@
-FROM 100.125.0.198:20202/n1/wordpressbase:1.1
+FROM swr.cn-north-1.myhuaweicloud.com/root/wordpressbase:1.1
 
 RUN mkdir -p /usr/src/wordpress 
     
